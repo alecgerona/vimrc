@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!.vimrc
+!.zshrc
+!.zshrc.local
+
